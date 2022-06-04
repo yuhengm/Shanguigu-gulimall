@@ -36,6 +36,13 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 
+#### personalized Maven
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
+
+
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json
